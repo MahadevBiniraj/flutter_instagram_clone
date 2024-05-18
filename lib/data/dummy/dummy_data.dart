@@ -2,8 +2,8 @@ import 'dart:math';
 
 class DummyData {
   static List<String> firstNames = [
-    'Alice',
-    'Bob',
+    'Saravan',
+    'Amal',
     'Charlie',
     'David',
     'Emma',
@@ -14,8 +14,8 @@ class DummyData {
     'Jack',
   ];
   static List<String> lastNames = [
-    'Smith',
-    'Johnson',
+    'anil',
+    'Ajayan',
     'Williams',
     'Jones',
     'Brown',

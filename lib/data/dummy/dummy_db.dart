@@ -9,7 +9,7 @@ class DummyDb {
       'Mobile Application Developer\nEverything is a program in the matrix.';
   // dummy profile Picture URL
   static const String currentUserProfilePic =
-      'https://images.pexels.com/photos/1812634/pexels-photo-1812634.jpeg?auto=compress&cs=tinysrgb&w=600';
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOeqYPPfY7IFYJ3kiqpClkm4FebRish1otU_zlqPUSIQ&s';
 
 // Dummy notification list
   static List notificationsFollowingMapList = [
@@ -285,21 +285,21 @@ class DummyDb {
 
 // Dummy avatar image URL List
   static const List personImages = [
-    'https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/698532/pexels-photo-698532.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/15019490/pexels-photo-15019490/free-photo-of-portrait-of-a-smiling-man.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/14995438/pexels-photo-14995438/free-photo-of-portrait-of-woman-in-hat.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/2748239/pexels-photo-2748239.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/2738919/pexels-photo-2738919.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/2748242/pexels-photo-2748242.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/1003979/pexels-photo-1003979.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/2649165/pexels-photo-2649165.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/1003979/pexels-photo-1003979.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/1988686/pexels-photo-1988686.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/3054535/pexels-photo-3054535.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/3756985/pexels-photo-3756985.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/3762802/pexels-photo-3762802.jpeg?auto=compress&cs=tinysrgb&w=600',
-    'https://images.pexels.com/photos/3328058/pexels-photo-3328058.jpeg?auto=compress&cs=tinysrgb&w=600',
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U4x5ltnyXHNjihk81MHRKJk0D1wyKZN2V2EYXDGjkQ&s",
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOeqYPPfY7IFYJ3kiqpClkm4FebRish1otU_zlqPUSIQ&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91YAhAW9Z7kgiUkKHif6KqA66D2qbizCdcddYs498-A&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5qCoWl-XbGrUKW-V5hwnFm5rB4ZDygIA6pkBGki8I1A&s',
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEiwTS6RdYeyyGRs5WZzKpO13pFJCXL8Dhy-Uha5yvkA&s",
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ023nC8DMMZhaQtX_34kFVsPS-wop672dEoes6AvSdsg&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoH0d9-QDKpBocHfQlt15FqxcFCGRjsoXFMPTUeo2oQ&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5if2KNK2YEDHLGUHfIqCY76v6vqcVOHTLFGQKOQdg&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNurpvBQtI_MAVBr1p-kS2V3O_9RMCu7SGFM8ecIbMyw&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJm1n0ElJ-HkzeiPMwTZ8VRkjIKte4way4Z9jkL_nBg&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuzHrmv3XtGajksY9PiBfAB8MOPoS7vlYt4pYxDppAg&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTJIx5KJf7jlNPGL5BEQHNOnSLXapsoUZTdtlr5j55w&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U4x5ltnyXHNjihk81MHRKJk0D1wyKZN2V2EYXDGjkQ&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP4T0EX5A7d-ruXxHzUaWtmLUxverLRbebPLETA4DNcQ&s',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7-jWFxtJBZ4FFXkl5kkYmfYxrS3itHFumEZjW2ZBNA&s',
   ];
 
   static const List postImages = [
@@ -408,52 +408,52 @@ class DummyDb {
     },
     {
       'profile_pic': personImages[0],
-      'user_name': 'John Doe',
+      'user_name': 'Ashmil',
       'is_live': true,
     },
     {
       'profile_pic': personImages[1],
-      'user_name': 'Alice Smith',
+      'user_name': 'Gokul',
       'is_live': true,
     },
     {
       'profile_pic': personImages[2],
-      'user_name': 'Bob Johnson',
+      'user_name': 'Ashish',
       'is_live': true,
     },
     {
       'profile_pic': personImages[3],
-      'user_name': 'Emily Davis',
+      'user_name': 'vaijith',
       'is_live': false,
     },
     {
       'profile_pic': personImages[4],
-      'user_name': 'Daniel Wilson',
+      'user_name': 'Ashmil',
       'is_live': false,
     },
     {
       'profile_pic': personImages[5],
-      'user_name': 'Sophia Brown',
+      'user_name': 'Ashlin',
       'is_live': false,
     },
     {
       'profile_pic': personImages[6],
-      'user_name': 'Matthew Miller',
+      'user_name': 'Akshay',
       'is_live': false,
     },
     {
       'profile_pic': personImages[7],
-      'user_name': 'Olivia Jones',
+      'user_name': 'Paul Saji',
       'is_live': false,
     },
     {
       'profile_pic': personImages[8],
-      'user_name': 'William Garcia',
+      'user_name': 'Gopakumar',
       'is_live': false,
     },
     {
       'profile_pic': personImages[9],
-      'user_name': 'Emma Martinez',
+      'user_name': 'Amal',
       'is_live': false,
     },
     {
@@ -463,12 +463,12 @@ class DummyDb {
     },
     {
       'profile_pic': personImages[11],
-      'user_name': 'Ken Miller',
+      'user_name': 'martin',
       'is_live': false,
     },
     {
       'profile_pic': personImages[12],
-      'user_name': 'Sandra Jones',
+      'user_name': 'Saintkrok',
       'is_live': false,
     },
     {
